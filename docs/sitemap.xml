@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lavebug.github.io/ahospitality/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lavebug.github.io/ahospitality/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://lavebug.github.io/ahospitality/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/our_brand/</loc>
+    <loc>https://lavebug.github.io/ahospitality/our_brand/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://lavebug.github.io/ahospitality/portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lavebug.github.io/ahospitality/tags/</loc>
     <priority>0</priority>
   </url>
   
