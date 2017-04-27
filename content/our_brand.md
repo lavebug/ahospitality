@@ -4,20 +4,20 @@ description = "Our brand About us"
 keywords = ["Our brand","About us"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## Our History
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Ashurance Hospitality is a provider of hospitality products and services across various accommodation alternatives and price ranges through its portfolio of brands.
+We became an independent, pure-play hospitality company on August 1, 2000. Since then, the Company has developed into a well-respected leader in the hospitality industry.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## Our Mission
 
-## 2. WHAT ARE THE POSTAL RATES?
+We welcomes people to experience travel the way they want.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## Our Core Values
 
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+* Act with integrity in all that we do: Without integrity, the foundations of business and life crumble.
+* Respect everyone, everywhere: Whether we are working with a customer, a hotel franchisee, a senior executive or a security guard - respect knows no boundaries.
+* Provide individual opportunity and accountability: As leaders, we need to actively include diversity in our thought process.
+* Improve our customers' lives: Whether we are helping our hotel franchisees or resort affiliates with their businesses or creating memorable experiences for the guests visiting our properties — we strive to improve their lives through their interaction with us.
+* Support our communities: Ashurance Hospitality is committed to improving the lives of future generations around the world through conservation, education, and wellness.
