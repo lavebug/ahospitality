@@ -1,4 +1,4 @@
-baseURL = "https://lavebug.github.io/ahospitality"
+baseURL = "https://lavebug.github.io/ahospitality/"
 theme = "hugo-universal-theme"
 publishDir = "docs"
 languageCode = "en-us"
