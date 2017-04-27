@@ -21,3 +21,6 @@ We welcomes people to experience travel the way they want.
 * Provide individual opportunity and accountability: As leaders, we need to actively include diversity in our thought process.
 * Improve our customers' lives: Whether we are helping our hotel franchisees or resort affiliates with their businesses or creating memorable experiences for the guests visiting our properties — we strive to improve their lives through their interaction with us.
 * Support our communities: Ashurance Hospitality is committed to improving the lives of future generations around the world through conservation, education, and wellness.
+
+
+---
