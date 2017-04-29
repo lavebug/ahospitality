@@ -1,14 +1,17 @@
 baseURL = "https://lavebug.github.io/ahospitality/"
+title = "Assurance Hospitality"
 theme = "hugo-universal-theme"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Assurance Hospitality"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-98198427-1"
+
+# Define the number of posts per page
+paginate = 10
 
 [menu]
 
@@ -33,6 +36,7 @@ googleAnalytics = "UA-98198427-1"
     weight = 4
 
 [params]
+    viewMorePostLink = "/blog/"
     author = "Ashurance Hospitality"
     defaultKeywords = ["Hotel", "Ashurance Hospitality", "hotels", "hotel reservations", "hotel discount", "leisure hotels", "business hotels"]
     defaultDescription = "Book hotels with Ashurance Hospitality to make your next business trip or vacation more relaxing and affordable."
@@ -62,7 +66,7 @@ googleAnalytics = "UA-98198427-1"
     copyright = "&copy;2017 Ashurance Hospitality"
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "January 1, 2017"
 
     logo = "img/logo.png"
     address = """<p><strong>Ashurance Hospitality</strong>
@@ -75,12 +79,11 @@ googleAnalytics = "UA-98198427-1"
 
 [Permalinks]
 
-
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carousel]
     enable = true
@@ -103,22 +106,24 @@ googleAnalytics = "UA-98198427-1"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    enable = true
+    icon = "fa fa-hotel"
+    title = "SIT BACK, RELAX & SAVE"
+    subtitle = "Book your next acomodation now though one of our partners."
+    link_url_one = "http://www.wyndham.com/"
+    link_text_one = "Book with Wyndham"
+    link_url_two = "https://www.choicehotels.com/"
+    link_text_two = "Book with a Choice "
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Services"
     subtitle = ""
 
 [params.recent_posts]
     enable = false
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Blog title here"
+    subtitle = "Copy Here"
