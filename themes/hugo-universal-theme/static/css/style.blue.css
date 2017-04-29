@@ -1156,7 +1156,7 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: #467fbf;
-  opacity: 0.5;
+  opacity: 0.3;
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
@@ -1190,10 +1190,14 @@ fieldset[disabled] .btn-template-primary.active {
   color: #fff;
 }
 .home-carousel h1 {
+  text-shadow: 3px 3px 20px #000000;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 46px;
   letter-spacing: 0.08em;
+}
+.home-carousel p {
+  text-shadow: 3px 3px 20px #000000;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
