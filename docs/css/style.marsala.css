@@ -222,7 +222,7 @@ ul.list-style-none {
 }
 @media (min-width: 1300px) {
   body.boxed {
-    background: url(http://subtlepatterns.com/patterns/subtle_zebra_3d.png);
+    background: url(../img/subtle_zebra_3d.png);
   }
   body.boxed #all {
     position: relative;
@@ -1186,20 +1186,33 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .holder {
-  position: absolute;
+  position: relative;
+  height: 100%
 }
 .whatermark {
   font-weight: 900;
-  position: relative;
-  top: -250px;
-  left: 200px;
+  position: absolute;
+  top: 16vh;
+  left: 12vw;
+  font-size: 7.5vw;
   color: red;
-  opacity: 0.8;
+  opacity: 0.6;
   text-shadow: 3px 3px 20px #000000;
   letter-spacing: 0.09em;
-  font-size: 80px;
-  transform: rotate(320deg);
-  -webkit-transform: rotate(320deg);
+  transform: rotate(340deg);
+  -webkit-transform: rotate(340deg);
+}
+@media (max-width: 767px) {
+  .whatermark {
+    top: 26vh;
+    left: 35vw;
+    font-size: 10vw;
+  }
+}
+@media (max-width: 480px) {
+  .whatermark {
+    top: 15vh;
+  }
 }
 .home-carousel h1,
 .home-carousel h2,
