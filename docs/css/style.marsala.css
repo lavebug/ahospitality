@@ -1182,6 +1182,22 @@ fieldset[disabled] .btn-template-primary.active {
     text-align: right;
   }
 }
+.holder {
+  position: absolute;
+}
+.whatermark {
+  font-weight: 900;
+  position: relative;
+  top: -250px;
+  left: 200px;
+  color: red;
+  opacity: 0.8;
+  text-shadow: 3px 3px 20px #000000;
+  letter-spacing: 0.09em;
+  font-size: 80px;
+  transform: rotate(320deg);
+  -webkit-transform: rotate(320deg);
+}
 .home-carousel h1,
 .home-carousel h2,
 .home-carousel h3,

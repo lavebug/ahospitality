@@ -15,6 +15,11 @@
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="{{ .image }}" alt="">
+                            {{ if .status }}
+                              <div class="holder">
+                                <div class="whatermark">SOLD</div>
+                              </div>
+                            {{ end }}
                         </div>
                     </div>
                 </div>
