@@ -1176,6 +1176,9 @@ fieldset[disabled] .btn-template-primary.active {
   .home-carousel {
     text-align: center !important;
   }
+  .home-carousel img {
+    margin: 0 auto;
+  }
 }
 @media (min-width: 992px) {
   .home-carousel .right {
