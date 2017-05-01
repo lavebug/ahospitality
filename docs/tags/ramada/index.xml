@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramada on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/tags/ramada/</link>
+    <description>Recent content in Ramada on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Fri, 28 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/tags/ramada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ramada Limited</title>
+      <link>https://lavebug.github.io/ahospitality/blog/ramada/</link>
+      <pubDate>Fri, 28 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/ramada/</guid>
+      <description>12605 South Minuteman Drive Draper, UT 84020</description>
+    </item>
+    
+  </channel>
+</rss>

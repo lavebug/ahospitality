@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sold on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/categories/sold/</link>
+    <description>Recent content in Sold on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Fri, 28 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/categories/sold/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ramada Limited</title>
+      <link>https://lavebug.github.io/ahospitality/blog/ramada/</link>
+      <pubDate>Fri, 28 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/ramada/</guid>
+      <description>12605 South Minuteman Drive Draper, UT 84020</description>
+    </item>
+    
+    <item>
+      <title>Baymont Inn And Suites</title>
+      <link>https://lavebug.github.io/ahospitality/blog/baymount-slc/</link>
+      <pubDate>Thu, 27 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/baymount-slc/</guid>
+      <description>12080 West North Temple Salt Lake City, UT-84116</description>
+    </item>
+    
+    <item>
+      <title>Wonder Lodge</title>
+      <link>https://lavebug.github.io/ahospitality/blog/wonder-lodge/</link>
+      <pubDate>Wed, 26 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/wonder-lodge/</guid>
+      <description>454 Lake St Reno, NV</description>
+    </item>
+    
+  </channel>
+</rss>

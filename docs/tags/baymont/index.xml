@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baymont on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/tags/baymont/</link>
+    <description>Recent content in Baymont on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Sat, 29 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/tags/baymont/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baymont Inn &amp; Suites</title>
+      <link>https://lavebug.github.io/ahospitality/blog/baymount-provo/</link>
+      <pubDate>Sat, 29 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/baymount-provo/</guid>
+      <description>2230 North University Parkway Provo, UT 84604</description>
+    </item>
+    
+    <item>
+      <title>Baymont Inn And Suites</title>
+      <link>https://lavebug.github.io/ahospitality/blog/baymount-slc/</link>
+      <pubDate>Thu, 27 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/baymount-slc/</guid>
+      <description>12080 West North Temple Salt Lake City, UT-84116</description>
+    </item>
+    
+  </channel>
+</rss>

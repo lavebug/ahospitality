@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/blog/sleep-in/</loc>
+    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/blog/baymount-provo/</loc>
+    <lastmod>2017-04-29T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/blog/ramada/</loc>
+    <lastmod>2017-04-28T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/blog/baymount-slc/</loc>
+    <lastmod>2017-04-27T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/blog/wonder-lodge/</loc>
+    <lastmod>2017-04-26T13:50:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/brand/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/tags/baymont/</loc>
+    <lastmod>2017-04-29T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lavebug.github.io/ahospitality/blog/</loc>
+    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,76 +54,42 @@
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lavebug.github.io/ahospitality/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lavebug.github.io/ahospitality/our_brand/</loc>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/portfolio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lavebug.github.io/ahospitality/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/categories/owned-and-managed/</loc>
+    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/tags/ramada/</loc>
+    <lastmod>2017-04-28T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/tags/sleep-inn/</loc>
+    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/categories/sold/</loc>
+    <lastmod>2017-04-28T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2017-04-29T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://lavebug.github.io/ahospitality/tags/wonder-lodge/</loc>
+    <lastmod>2017-04-26T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   

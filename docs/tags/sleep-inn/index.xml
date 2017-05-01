@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleep Inn on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/tags/sleep-inn/</link>
+    <description>Recent content in Sleep Inn on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/tags/sleep-inn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sleep Inn</title>
+      <link>https://lavebug.github.io/ahospitality/blog/sleep-in/</link>
+      <pubDate>Sun, 30 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/sleep-in/</guid>
+      <description>0676 S. 300 W. South Jordan, UT-84095</description>
+    </item>
+    
+  </channel>
+</rss>

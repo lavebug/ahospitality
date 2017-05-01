@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonder Lodge on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/tags/wonder-lodge/</link>
+    <description>Recent content in Wonder Lodge on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Wed, 26 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/tags/wonder-lodge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wonder Lodge</title>
+      <link>https://lavebug.github.io/ahospitality/blog/wonder-lodge/</link>
+      <pubDate>Wed, 26 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/wonder-lodge/</guid>
+      <description>454 Lake St Reno, NV</description>
+    </item>
+    
+  </channel>
+</rss>

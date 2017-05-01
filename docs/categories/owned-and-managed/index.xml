@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Owned And Managed on Assurance Hospitality</title>
+    <link>https://lavebug.github.io/ahospitality/categories/owned-and-managed/</link>
+    <description>Recent content in Owned And Managed on Assurance Hospitality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://lavebug.github.io/ahospitality/categories/owned-and-managed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sleep Inn</title>
+      <link>https://lavebug.github.io/ahospitality/blog/sleep-in/</link>
+      <pubDate>Sun, 30 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/sleep-in/</guid>
+      <description>0676 S. 300 W. South Jordan, UT-84095</description>
+    </item>
+    
+    <item>
+      <title>Baymont Inn &amp; Suites</title>
+      <link>https://lavebug.github.io/ahospitality/blog/baymount-provo/</link>
+      <pubDate>Sat, 29 Apr 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/baymount-provo/</guid>
+      <description>2230 North University Parkway Provo, UT 84604</description>
+    </item>
+    
+  </channel>
+</rss>
