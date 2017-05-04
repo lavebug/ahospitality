@@ -6,7 +6,7 @@
     <description>Recent content on Assurance Hospitality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2017 Ashurance Hospitality</copyright>
+    <copyright>&amp;copy;2017 Assurance Hospitality</copyright>
     <lastBuildDate>Sun, 30 Apr 2017 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://lavebug.github.io/ahospitality/index.xml" rel="self" type="application/rss+xml" />
@@ -67,12 +67,21 @@
     </item>
     
     <item>
-      <title>Our Brand</title>
-      <link>https://lavebug.github.io/ahospitality/our_brand/</link>
+      <title>Investors</title>
+      <link>https://lavebug.github.io/ahospitality/investors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lavebug.github.io/ahospitality/our_brand/</guid>
-      <description>Our History Ashurance Hospitality is a provider of hospitality products and services across various accommodation alternatives and price ranges through its portfolio of brands. We became an independent, pure-play hospitality company on August 1, 2000. Since then, the Company has developed into a well-respected leader in the hospitality industry.
+      <guid>https://lavebug.github.io/ahospitality/investors/</guid>
+      <description>Investor Relations Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Our Brand</title>
+      <link>https://lavebug.github.io/ahospitality/brand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/brand/</guid>
+      <description>Our History Assurance Hospitality is a provider of hospitality products and services across various accommodation alternatives and price ranges through its portfolio of brands. We became an independent, pure-play hospitality company on August 1, 2000. Since then, the Company has developed into a well-respected leader in the hospitality industry.
 Our Mission We welcomes people to experience travel the way they want.
 Our Core Values  Act with integrity in all that we do: Without integrity, the foundations of business and life crumble.</description>
     </item>

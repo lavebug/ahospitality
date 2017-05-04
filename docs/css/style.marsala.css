@@ -2889,6 +2889,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-affixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
   max-height: 340px;
+  min-height: 97px;
 }
 @media (max-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
@@ -3008,8 +3009,8 @@ fieldset[disabled] .btn-template-primary.active {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 21px;
-    padding-bottom: 21px;
+    padding-top: 36px;
+    padding-bottom: 36px;
   }
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
@@ -3231,6 +3232,9 @@ hr {
   color: #999999;
 }
 @media (max-width: 991px) {
+  .mobile-logo-size {
+    height: 72px;
+  }
   .breadcrumb {
     padding: 20px 0;
     text-align: center;
@@ -3366,6 +3370,9 @@ label {
 }
 /* responsive utilities */
 @media (max-width: 767px) {
+  .mobile-logo-size {
+    height: 47px;
+  }
   .text-center-xs {
     text-align: center !important;
   }

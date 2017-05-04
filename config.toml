@@ -21,8 +21,8 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Our Brand"
-    url  = "/our_brand/"
+    name = "Brand"
+    url  = "/brand/"
     weight = 2
 
 [[menu.main]]
@@ -31,15 +31,20 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Investors"
+    url  = "/investors/"
+    weight = 4
+
+[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "Ashurance Hospitality"
-    defaultKeywords = ["Hotel", "Ashurance Hospitality", "hotels", "hotel reservations", "hotel discount", "leisure hotels", "business hotels"]
-    defaultDescription = "Book hotels with Ashurance Hospitality to make your next business trip or vacation more relaxing and affordable."
+    author = "Assurance Hospitality"
+    defaultKeywords = ["Hotel", "Assurance Hospitality", "hotels", "hotel reservations", "hotel discount", "leisure hotels", "business hotels"]
+    defaultDescription = "Book hotels with Assurance Hospitality to make your next business trip or vacation more relaxing and affordable."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyB4SNekyh9iLHtTkGOYRj8nTK0acGteZi0"
@@ -63,13 +68,13 @@ paginate = 10
     email = "lavebug@gmail.com"
 
     about_us = "<p>Discover a hotel with exceptional accommodations at an ideal location. Plan your stay at one of our locations.</p>"
-    copyright = "&copy;2017 Ashurance Hospitality"
+    copyright = "&copy;2017 Assurance Hospitality"
 
     # Format dates with Go's time formatting
     date_format = "January 1, 2017"
 
     logo = "img/logo.png"
-    address = """<p><strong>Ashurance Hospitality</strong>
+    address = """<p><strong>Assurance Hospitality</strong>
         <br>2229 W City Center CT
         <br>West Valley, UT 84119
       </p>
@@ -83,7 +88,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [params.carousel]
     enable = true

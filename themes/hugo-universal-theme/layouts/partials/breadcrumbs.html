@@ -2,7 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
+              {{ if (where .Data.Pages "Type" "blog") }}
+                <h1></h1>
+              {{ else }}
                 <h1>{{ .Title }}</h1>
+              {{ end }}
             </div>
         </div>
     </div>
