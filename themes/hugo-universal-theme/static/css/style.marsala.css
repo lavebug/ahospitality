@@ -1187,31 +1187,37 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .holder {
   position: relative;
-  height: 100%
+  max-width: 90%
+  margin: 0 auto;
 }
 .whatermark {
   font-weight: 900;
   position: absolute;
-  top: 16vh;
-  left: 12vw;
-  font-size: 7.5vw;
+  padding: 22% 0 0 20%;
+  max-width: 100%;
+  text-align: center;
+  font-size: 8em;
   color: red;
   opacity: 0.6;
-  text-shadow: 3px 3px 20px #000000;
   letter-spacing: 0.09em;
   transform: rotate(340deg);
   -webkit-transform: rotate(340deg);
 }
+@media (max-width: 991px) {
+  .whatermark {
+    font-size: 6em;
+  }
+}
 @media (max-width: 767px) {
   .whatermark {
-    top: 26vh;
-    left: 35vw;
-    font-size: 10vw;
+    padding: 22% 0 0 26%;
+    font-size: 7em;
   }
 }
 @media (max-width: 480px) {
   .whatermark {
-    top: 15vh;
+    padding: 24% 0 0 23%;
+    font-size: 5em;
   }
 }
 .home-carousel h1,
@@ -1234,6 +1240,11 @@ fieldset[disabled] .btn-template-primary.active {
 @media (max-width: 991px) {
   .home-carousel h1 {
     font-size: 36px;
+  }
+}
+@media (max-width: 560px) {
+  .home-carousel h1 {
+    font-size: 30px;
   }
 }
 .home-carousel h2 {

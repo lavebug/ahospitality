@@ -17,9 +17,11 @@
                           {{ if .status }}
                             <div class="holder">
                               <div class="whatermark">SOLD</div>
+                              <img class="img-responsive" src="{{ .image }}" alt="">
                             </div>
+                          {{ else }}
+                            <img class="img-responsive" src="{{ .image }}" alt="">
                           {{ end }}
-                          <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
                     </div>
                 </div>
