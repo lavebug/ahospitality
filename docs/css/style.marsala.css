@@ -3609,3 +3609,11 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
+@media (max-width: 560px) {
+  .home-carousel h1 {
+    min-height: 66px;
+  }
+  .block-with-text {
+    min-height: 60px;
+  }
+}
