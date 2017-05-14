@@ -1772,8 +1772,8 @@ fieldset[disabled] .btn-template-primary.active {
 .box.no-border {
   border: none;
 }
-#heading-breadcrumbs {
-  background: url('../img/texture-bw.png') center center repeat;
+  #heading-breadcrumbs {
+  background: url('../img/texture-sky.jpg') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }

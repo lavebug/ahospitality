@@ -7,4 +7,5 @@ banner = "img/carousel/baymont-slc-front.jpg"
 +++
 
 12080 West North Temple
+<br>
 Salt Lake City, UT-84116

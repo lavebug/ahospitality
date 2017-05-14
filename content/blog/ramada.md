@@ -7,4 +7,5 @@ banner = "img/carousel/ramada-front.jpg"
 +++
 
 12605 South Minuteman Drive
+<br>
 Draper, UT 84020

@@ -7,4 +7,5 @@ banner = "img/carousel/wonderlodge-front.jpg"
 +++
 
 454 Lake St
+<br>
 Reno, NV

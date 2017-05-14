@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Assurance Hospitality</copyright>
-    <lastBuildDate>Sun, 30 Apr 2017 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://lavebug.github.io/ahospitality/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Comfort Inn &amp; Suites</title>
+      <link>https://lavebug.github.io/ahospitality/blog/camfort-inn-wvc/</link>
+      <pubDate>Mon, 01 May 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://lavebug.github.io/ahospitality/blog/camfort-inn-wvc/</guid>
+      <description>2229 W City Center CT West Valley, UT 84119</description>
+    </item>
+    
+    <item>
       <title>Sleep Inn</title>
-      <link>https://lavebug.github.io/ahospitality/blog/sleep-in/</link>
+      <link>https://lavebug.github.io/ahospitality/blog/sleep-inn/</link>
       <pubDate>Sun, 30 Apr 2017 13:50:46 +0200</pubDate>
       
-      <guid>https://lavebug.github.io/ahospitality/blog/sleep-in/</guid>
-      <description>0676 S. 300 W. South Jordan, UT-84095</description>
+      <guid>https://lavebug.github.io/ahospitality/blog/sleep-inn/</guid>
+      <description>10676 S. 300 W. South Jordan, UT 84095</description>
     </item>
     
     <item>

@@ -6,6 +6,6 @@ categories = ["owned and managed"]
 banner = "img/carousel/sleep-inn-front.jpg"
 +++
 
-0676 S. 300 W.
+10676 S. 300 W.
 <br>
-South Jordan, UT-84095
+South Jordan, UT 84095

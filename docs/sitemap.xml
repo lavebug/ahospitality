@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lavebug.github.io/ahospitality/blog/sleep-in/</loc>
+    <loc>https://lavebug.github.io/ahospitality/blog/camfort-inn-wvc/</loc>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavebug.github.io/ahospitality/blog/sleep-inn/</loc>
     <lastmod>2017-04-30T13:50:46+02:00</lastmod>
   </url>
   
@@ -28,7 +33,7 @@
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/</loc>
-    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,12 +45,18 @@
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/blog/</loc>
-    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lavebug.github.io/ahospitality/tags/comfort-inn--suites/</loc>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +70,7 @@
   
   <url>
     <loc>https://lavebug.github.io/ahospitality/categories/owned-and-managed/</loc>
-    <lastmod>2017-04-30T13:50:46+02:00</lastmod>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
