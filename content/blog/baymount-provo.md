@@ -7,5 +7,4 @@ banner = "img/carousel/baymont-provo-front.jpg"
 +++
 
 2230 North University Parkway
-<br>
 Provo, UT 84604

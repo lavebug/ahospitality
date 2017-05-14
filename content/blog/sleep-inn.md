@@ -7,5 +7,4 @@ banner = "img/carousel/sleep-inn-front.jpg"
 +++
 
 10676 S. 300 W.
-<br>
 South Jordan, UT 84095

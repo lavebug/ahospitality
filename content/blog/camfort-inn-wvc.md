@@ -7,5 +7,4 @@ banner = "img/carousel/camfort-inn-front.jpg"
 +++
 
 2229 W City Center CT
-<br>
 West Valley, UT 84119
