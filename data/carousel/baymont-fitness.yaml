@@ -1,5 +1,7 @@
 weight: 12
 title: "Baymont Inn & Suites"
-description: "<p class='block-with-text-tall'>Fitness center.</p>"
+description: "<p>2230 North University Parkway<br>Provo, UT 84604</p>
+<br>
+<p class='block-with-text'>Fitness center.</p>"
 image: "img/carousel/baymont-fitness.jpg"
 status: ""

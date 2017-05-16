@@ -1,5 +1,7 @@
 weight: 15
 title: "Sleep Inn"
-description: "<p class='block-with-text-tall'>Stay at our guest room.</p>"
+description: "<p>10676 S. 300 W.<br>South Jordan, UT 84095</p>
+<br>
+<p class='block-with-text'>Stay at our guest room.</p>"
 image: "img/carousel/sleep-room.jpg"
 status: ""
