@@ -3616,4 +3616,7 @@ a.list-group-item.active > .badge,
   .block-with-text {
     min-height: 60px;
   }
+  .block-with-text-tall {
+    min-height: 130px;
+  }
 }
